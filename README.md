@@ -11,3 +11,4 @@ Took existing code and refactored it to be concise, clean, and understandable.
 
 [Live Site](https://human-exp11.github.io/first-hw/)
 
+![Screenshot of webpage](./git-images/human-exp11.github.io_first-hw_.png)
