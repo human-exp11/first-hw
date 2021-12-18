@@ -1,6 +1,6 @@
-# Horeseon Refactor
+# Horiseon Refactor
 
-Took existing code and refactored it to be cleaner and more understandable.
+Took existing code and refactored it to be concise, clean, and understandable.
 
 ## Items Changed
 
