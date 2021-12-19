@@ -1,13 +1,14 @@
 # Horiseon Refactor
 
-Took existing code and refactored it to be concise, clean, and understandable.
+***Homework 1:*** Refactored given code to be concise, clean, intuitive, & organized while leaving the webpage unchanged & unaltered.
 
-## Items Changed
+## Items Changed:
 
-* added semantic tags 
-* rearranged css to flow with the html
-* changed class names to generic names
-* added alt to images for accessibility 
+* Added semantic tags 
+* Rearranged CSS to flow with the HTML
+* Changed class names to be more descriptive & ecompassing
+* Added alt to images for accessibility 
+* Placed comments within the CSS
 
 [Live Site](https://human-exp11.github.io/first-hw/)
 
